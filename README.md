@@ -1,2 +1,0 @@
-# beta-demo
-training repo

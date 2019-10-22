@@ -1,0 +1,10 @@
+http://jsonviewer.stack.hu/---JSON
+
+https://www.json2yaml.com/
+
+https://codebeautify.org/yaml-validator
+
+
+https://www.rapidtables.com/convert/number/binary-to-decimal.html
+
+contro N -NEW FILE IN ATOM
